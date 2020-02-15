@@ -1,0 +1,13 @@
+{
+  "name": "inkdrop-hook-integration",
+  "main": "./lib/inkdrop-hook-integration",
+  "version": "0.1.0",
+  "description": "Allows Inkdrop to integrate with Hook Productivity app",
+  "keywords": [],
+  "repository": "https://github.com/prurph/inkdrop-hook-integration",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {}
+}
